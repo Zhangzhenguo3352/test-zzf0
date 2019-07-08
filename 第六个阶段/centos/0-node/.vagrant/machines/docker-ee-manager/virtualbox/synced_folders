@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/Users/zhangzhenguo/Documents/items/test/第六个阶段/centos/0-node","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
